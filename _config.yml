@@ -56,19 +56,18 @@ kramdown:
 # disqus_username: longfei
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 17037b1124b99b30175b                            #生成的clientID
-  clientSecret: 25ead9d99cf42d93cffe63fdea3af40ce3ee11a2    #生成的clientSecret
-  repo: LF-Lin.github.io    #仓库名称
-  owner: LF-lin    #github用户名
-  admin: LF-lin
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#gitalk:
+  #enable: true    #是否开启Gitalk评论
+  #clientID: 17037b1124b99b30175b                            #生成的clientID
+  #clientSecret: 25ead9d99cf42d93cffe63fdea3af40ce3ee11a2    #生成的clientSecret
+  #repo: LF-Lin.github.io    #仓库名称
+  #owner: LF-lin    #github用户名
+  #admin: LF-lin
+  #distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
 featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
-
 
 
 # Progressive Web Apps
