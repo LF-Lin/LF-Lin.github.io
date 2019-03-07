@@ -16,7 +16,7 @@ tags:                               #标签
 ## Introduction
 >Project Suspension 
 
->An introdution can be viewed [here](https://github.com/LF-Lin/TrafData/blob/master/Integrated%20Transport%20System%20with%20Big%20Data.pdf) (!chinese version)
+>An introdution can be viewed [here](https://github.com/LF-Lin/TrafData/blob/master/Integrated%20Transport%20System%20with%20Big%20Data.pdf) (! chinese version)
 
 
 ### Work
