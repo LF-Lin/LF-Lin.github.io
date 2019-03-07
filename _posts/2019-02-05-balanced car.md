@@ -17,7 +17,7 @@ tags:                               #标签
 ## Schedule
 >Project Finished 
 
->An introdution can be viewed [here](https://github.com/LF-Lin/2Banlance/blob/master/Balanced%20Vehicle%20Based%20on%20Machine%20Vision%20(chinese).pdf)
+>A preliminary manuscript can be viewed [here](https://github.com/LF-Lin/2Banlance/blob/master/Balanced%20Vehicle%20Based%20on%20Machine%20Vision%20(chinese).pdf)
 
 ### Introdution
 
