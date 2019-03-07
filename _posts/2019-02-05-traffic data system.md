@@ -20,7 +20,5 @@ tags:                               #标签
 
 
 ### Work
-This data set consists of factors that are responsible for heart disease. The goal to confirm whether the person is having heart disease or not, based on several test results.  It is easy to identify the cause and predict future data to prevent the disease in its initial stage.
 
-A preliminary manuscript can be viewed [here](https://github.com/LF-Lin/ML-DM/blob/master/ML-1.pdf).
 
